@@ -41,7 +41,6 @@ pathlib2==2.3.0
 pbr==3.1.1
 pexpect==4.4.0
 pickleshare==0.7.4
-pkg-resources==0.0.0
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
 ptyprocess==0.5.2
